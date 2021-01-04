@@ -1,0 +1,13 @@
+C:\Users\Dario\source\repos\ForecastApplication\ConsoleApplicationTester\bin\Debug\ConsoleApplicationTester.exe.config
+C:\Users\Dario\source\repos\ForecastApplication\ConsoleApplicationTester\bin\Debug\ConsoleApplicationTester.exe
+C:\Users\Dario\source\repos\ForecastApplication\ConsoleApplicationTester\bin\Debug\ConsoleApplicationTester.pdb
+C:\Users\Dario\source\repos\ForecastApplication\ConsoleApplicationTester\bin\Debug\DataAccessLayer.exe
+C:\Users\Dario\source\repos\ForecastApplication\ConsoleApplicationTester\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dario\source\repos\ForecastApplication\ConsoleApplicationTester\bin\Debug\DataAccessLayer.pdb
+C:\Users\Dario\source\repos\ForecastApplication\ConsoleApplicationTester\bin\Debug\DataAccessLayer.exe.config
+C:\Users\Dario\source\repos\ForecastApplication\ConsoleApplicationTester\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dario\source\repos\ForecastApplication\ConsoleApplicationTester\obj\Debug\ConsoleApplicationTester.csprojAssemblyReference.cache
+C:\Users\Dario\source\repos\ForecastApplication\ConsoleApplicationTester\obj\Debug\ConsoleApplicationTester.csproj.CoreCompileInputs.cache
+C:\Users\Dario\source\repos\ForecastApplication\ConsoleApplicationTester\obj\Debug\ConsoleApplicationTester.csproj.CopyComplete
+C:\Users\Dario\source\repos\ForecastApplication\ConsoleApplicationTester\obj\Debug\ConsoleApplicationTester.exe
+C:\Users\Dario\source\repos\ForecastApplication\ConsoleApplicationTester\obj\Debug\ConsoleApplicationTester.pdb
